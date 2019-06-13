@@ -8,6 +8,9 @@ To test your implementation start your development blockchain by running truffle
 
 If your tests do not pass, modify the contract, recompile, redeploy and retest. Iterate until all of the tests pass.
 
+### All tests passed
+
+![tests](https://github.com/CA-bootcamp-s19/simple-bank-exercise-LorenzoZaccagnini/blob/master/Schermata%202019-06-13%20alle%2013.53.14.png)
 
 ### A note on testing
 
